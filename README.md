@@ -153,7 +153,8 @@ Things you should know and fast in doing
 2. https://kodekloud.com/courses/kubernetes-certification-course/lectures/6743640
 
 3. https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
-	
+
+4. https://dev.to/liptanbiswas/ckad-practice-questions-4mpn
 
 
 
